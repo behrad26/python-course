@@ -44,15 +44,15 @@ $$-----/start/of/session/one/-----$$
 -----
 
 ### python syntax:
-`first block of code`
-`first block of code:` <- (colon)
-`....second block of code` <- (indentation)
-`....second block of code:` <- (indentation & colon)
-`........third block of code` <- (indentation)
-`........third block of code` <- (indentation)
-`....second block of code` <- (indentation)
-`....second block of code` <- (indentation)
-`first block of code`
+`first block of code`  
+`first block of code:` <- (colon)  
+`....second block of code` <- (indentation)  
+`....second block of code:` <- (indentation & colon)  
+`........third block of code` <- (indentation)  
+`........third block of code` <- (indentation)  
+`....second block of code` <- (indentation)  
+`....second block of code` <- (indentation)  
+`first block of code`  
 
 -----
 
