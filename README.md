@@ -107,9 +107,59 @@ $$-----/start/of/session/two/-----$$
 + `//` floor division `x // y`
 
 -----
+### python comments
+syntax:
+##### input:
+```
+#this is a comment
+"this is a comment"
+'this is a comment'
+"""this is a comment"""
+'''this is a comment'''
+
+
+#this is a comment
+#written in
+#three lines
+
+"""
+this is a comment
+written in
+three lines
+"""
+
+'''
+this is a comment
+written in
+three lines
+'''
+
+print("hello to comments!") #this is another comment
+#print("hello to comments!")
+"print('hello to comments!')"
+'print("hello to comments")'
+"""print("hello to comments")"""
+'''print('Hello to comments')'''
+```
+  
+  
+### output
+```
+hello to comments!
+```
+-----
 ### python variables
 syntax: `variable_name = value`
 e.g. `x = 10` (get data-type of x by: `type(x)`)
+```
+a = "Hello Behrad!"    #str
+b = 1402               #int
+c = 1402.0             #float
+d = 140.2              #float
+e = 18j                #complex
+f = True               #bool
+g = False              #bool
+```
 
 -----
 $$-----/end/of/session/two/-----$$
